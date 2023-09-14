@@ -43,11 +43,11 @@
 #     return value
 #
 # print(add(1,2,3.,'Python', 31))
-
-def print_kwargs(**kwargs):
-    print(kwargs)
-
-
-print_kwargs(kone='One', ktwo='two', kthree=3)
+#
+# def print_kwargs(**kwargs):
+#     print(kwargs)
+#
+#
+# print_kwargs(kone='One', ktwo='two', kthree=3)
 
 
